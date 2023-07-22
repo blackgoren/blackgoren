@@ -33,16 +33,6 @@ Kodlamayı seven, yeni teknolojilere meraklı ve sürekli öğrenmeye hevesli bi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<!-- 📊 Dil ve Araç Kullanımı -->
-## 📊 Dil ve Araç Kullanımı
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinizsoyadiniz&layout=compact&theme=radical)
-
-<!-- 🎮 Oyun Geliştirme -->
-## 🎮 Oyun Geliştirme
-Unity ile geliştirdiğim eğlenceli oyunlara göz atın:
-- 🕹️ [Oyun 1](https://github.com/adinizsoyadiniz/oyun-1): Heyecan dolu bir aksiyon oyunu.
-- 🎯 [Oyun 2](https://github.com/adinizsoyadiniz/oyun-2): Hedef vurma becerilerinizi test edin.
-
 <!-- 📫 İletişim -->
 ## 📫 İletişim
 - 📧 E-posta: adiniz.soyadiniz@mail.com
