@@ -1,15 +1,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" width="900">
-  <pre >
+  <pre>
 ┓┏•  ╻  ┳╹     ┓┏          ┏┓┏┓┳┓┏┓┳┓
 ┣┫┓  ┃  ┃ ┏┳┓  ┣┫┏┓┏┓┓┏┏┓  ┃┓┃┃┣┫┣ ┃┃
 ┛┗┗  •  ┻ ┛┗┗  ┛┗┗┻┛ ┗┻┛┗  ┗┛┗┛┛┗┗┛┛┗                                     
 </pre>
-<hr>
-<br>
+<center><hr  width="400" height="4px"></center>
 <br>
 <details>
-  <summary> <blockquote>Kişisel Bilgiler</blockquote></summary>
-  Sosyal medya hesaplarımdan beni takip ederek, teknoloji hakkında güncellemeleri, proje ilerlemelerimi ve ilgi alanlarımı paylaşımlarım aracılığıyla takip edebilirsiniz.
+  <summary>Kişisel Bilgiler</summary><br>
+<blockquote>Sosyal medya hesaplarımdan beni takip ederek, teknoloji hakkında güncellemeleri, proje ilerlemelerimi ve ilgi alanlarımı paylaşımlarım aracılığıyla takip edebilirsiniz.</blockquote>
 <hr>
  <pre><p>
 👤 Ad: [Adınız]
@@ -20,8 +19,8 @@
  </p></pre></details>
  <br>
  <details>
-  <summary> <blockquote>Projeler</blockquote></summary>
-   Projelerimde her zaman kalite ve kullanıcı deneyimi önceliğimdir.
+  <summary>Projeler</summary><br>
+   <blockquote>Projelerimde her zaman kalite ve kullanıcı deneyimi önceliğimdir.</blockquote>
 <hr>
 🚀 Proje 1: [Proje 1 Adı]
  <pre><p>
