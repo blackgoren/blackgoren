@@ -4,7 +4,8 @@
 ┣┫┓  ┃  ┃ ┏┳┓  ┣┫┏┓┏┓┓┏┏┓  ┃┓┃┃┣┫┣ ┃┃
 ┛┗┗  •  ┻ ┛┗┗  ┛┗┗┻┛ ┗┻┛┗  ┗┛┗┛┛┗┗┛┛┗                                     
 </pre>
-<center><hr  width="400" height="4px"></center>
+<center><hr></center>
+
 <br>
 <details>
   <summary>Kişisel Bilgiler</summary><br>
